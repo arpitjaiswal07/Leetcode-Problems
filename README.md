@@ -21,4 +21,20 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0835-image-overlap](https://github.com/arpitjaiswal07/Leetcode-Problems/tree/master/0835-image-overlap) |
+## Hash Table
+|  |
+| ------- |
+| [0389-find-the-difference](https://github.com/arpitjaiswal07/Leetcode-Problems/tree/master/0389-find-the-difference) |
+## String
+|  |
+| ------- |
+| [0389-find-the-difference](https://github.com/arpitjaiswal07/Leetcode-Problems/tree/master/0389-find-the-difference) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0389-find-the-difference](https://github.com/arpitjaiswal07/Leetcode-Problems/tree/master/0389-find-the-difference) |
+## Sorting
+|  |
+| ------- |
+| [0389-find-the-difference](https://github.com/arpitjaiswal07/Leetcode-Problems/tree/master/0389-find-the-difference) |
 <!---LeetCode Topics End-->
