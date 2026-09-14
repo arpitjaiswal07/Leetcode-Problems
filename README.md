@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0013-roman-to-integer](https://github.com/arpitjaiswal07/Leetcode-Problems/tree/master/0013-roman-to-integer) |
 | [0070-climbing-stairs](https://github.com/arpitjaiswal07/Leetcode-Problems/tree/master/0070-climbing-stairs) |
 | [0836-rectangle-overlap](https://github.com/arpitjaiswal07/Leetcode-Problems/tree/master/0836-rectangle-overlap) |
 ## Dynamic Programming
@@ -27,11 +28,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0013-roman-to-integer](https://github.com/arpitjaiswal07/Leetcode-Problems/tree/master/0013-roman-to-integer) |
 | [0389-find-the-difference](https://github.com/arpitjaiswal07/Leetcode-Problems/tree/master/0389-find-the-difference) |
 | [3146-permutation-difference-between-two-strings](https://github.com/arpitjaiswal07/Leetcode-Problems/tree/master/3146-permutation-difference-between-two-strings) |
 ## String
 |  |
 | ------- |
+| [0013-roman-to-integer](https://github.com/arpitjaiswal07/Leetcode-Problems/tree/master/0013-roman-to-integer) |
 | [0389-find-the-difference](https://github.com/arpitjaiswal07/Leetcode-Problems/tree/master/0389-find-the-difference) |
 | [0844-backspace-string-compare](https://github.com/arpitjaiswal07/Leetcode-Problems/tree/master/0844-backspace-string-compare) |
 | [3146-permutation-difference-between-two-strings](https://github.com/arpitjaiswal07/Leetcode-Problems/tree/master/3146-permutation-difference-between-two-strings) |
