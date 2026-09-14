@@ -32,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0389-find-the-difference](https://github.com/arpitjaiswal07/Leetcode-Problems/tree/master/0389-find-the-difference) |
+| [0844-backspace-string-compare](https://github.com/arpitjaiswal07/Leetcode-Problems/tree/master/0844-backspace-string-compare) |
 | [3146-permutation-difference-between-two-strings](https://github.com/arpitjaiswal07/Leetcode-Problems/tree/master/3146-permutation-difference-between-two-strings) |
 ## Bit Manipulation
 |  |
@@ -49,8 +50,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0682-baseball-game](https://github.com/arpitjaiswal07/Leetcode-Problems/tree/master/0682-baseball-game) |
+| [0844-backspace-string-compare](https://github.com/arpitjaiswal07/Leetcode-Problems/tree/master/0844-backspace-string-compare) |
 ## Simulation
 |  |
 | ------- |
 | [0682-baseball-game](https://github.com/arpitjaiswal07/Leetcode-Problems/tree/master/0682-baseball-game) |
+| [0844-backspace-string-compare](https://github.com/arpitjaiswal07/Leetcode-Problems/tree/master/0844-backspace-string-compare) |
+## Two Pointers
+|  |
+| ------- |
+| [0844-backspace-string-compare](https://github.com/arpitjaiswal07/Leetcode-Problems/tree/master/0844-backspace-string-compare) |
 <!---LeetCode Topics End-->
