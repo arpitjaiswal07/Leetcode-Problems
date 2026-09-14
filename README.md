@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/arpitjaiswal07/Leetcode-Problems/tree/master/0070-climbing-stairs) |
+| [0836-rectangle-overlap](https://github.com/arpitjaiswal07/Leetcode-Problems/tree/master/0836-rectangle-overlap) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -39,4 +40,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0389-find-the-difference](https://github.com/arpitjaiswal07/Leetcode-Problems/tree/master/0389-find-the-difference) |
+## Geometry
+|  |
+| ------- |
+| [0836-rectangle-overlap](https://github.com/arpitjaiswal07/Leetcode-Problems/tree/master/0836-rectangle-overlap) |
 <!---LeetCode Topics End-->
