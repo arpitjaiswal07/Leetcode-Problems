@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0055-jump-game](https://github.com/arpitjaiswal07/Leetcode-Problems/tree/master/0055-jump-game) |
 | [0070-climbing-stairs](https://github.com/arpitjaiswal07/Leetcode-Problems/tree/master/0070-climbing-stairs) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/arpitjaiswal07/Leetcode-Problems/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 ## Memoization
@@ -20,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0055-jump-game](https://github.com/arpitjaiswal07/Leetcode-Problems/tree/master/0055-jump-game) |
 | [0066-plus-one](https://github.com/arpitjaiswal07/Leetcode-Problems/tree/master/0066-plus-one) |
 | [0682-baseball-game](https://github.com/arpitjaiswal07/Leetcode-Problems/tree/master/0682-baseball-game) |
 | [0724-find-pivot-index](https://github.com/arpitjaiswal07/Leetcode-Problems/tree/master/0724-find-pivot-index) |
@@ -81,6 +83,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [0055-jump-game](https://github.com/arpitjaiswal07/Leetcode-Problems/tree/master/0055-jump-game) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/arpitjaiswal07/Leetcode-Problems/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 ## Heap (Priority Queue)
 |  |
