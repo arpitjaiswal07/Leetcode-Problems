@@ -34,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0013-roman-to-integer](https://github.com/arpitjaiswal07/Leetcode-Problems/tree/master/0013-roman-to-integer) |
+| [0205-isomorphic-strings](https://github.com/arpitjaiswal07/Leetcode-Problems/tree/master/0205-isomorphic-strings) |
 | [0389-find-the-difference](https://github.com/arpitjaiswal07/Leetcode-Problems/tree/master/0389-find-the-difference) |
 | [0451-sort-characters-by-frequency](https://github.com/arpitjaiswal07/Leetcode-Problems/tree/master/0451-sort-characters-by-frequency) |
 | [1796-second-largest-digit-in-a-string](https://github.com/arpitjaiswal07/Leetcode-Problems/tree/master/1796-second-largest-digit-in-a-string) |
@@ -42,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0013-roman-to-integer](https://github.com/arpitjaiswal07/Leetcode-Problems/tree/master/0013-roman-to-integer) |
+| [0205-isomorphic-strings](https://github.com/arpitjaiswal07/Leetcode-Problems/tree/master/0205-isomorphic-strings) |
 | [0389-find-the-difference](https://github.com/arpitjaiswal07/Leetcode-Problems/tree/master/0389-find-the-difference) |
 | [0451-sort-characters-by-frequency](https://github.com/arpitjaiswal07/Leetcode-Problems/tree/master/0451-sort-characters-by-frequency) |
 | [0844-backspace-string-compare](https://github.com/arpitjaiswal07/Leetcode-Problems/tree/master/0844-backspace-string-compare) |
