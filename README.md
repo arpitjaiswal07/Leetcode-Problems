@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0013-roman-to-integer](https://github.com/arpitjaiswal07/Leetcode-Problems/tree/master/0013-roman-to-integer) |
 | [0066-plus-one](https://github.com/arpitjaiswal07/Leetcode-Problems/tree/master/0066-plus-one) |
+| [0067-add-binary](https://github.com/arpitjaiswal07/Leetcode-Problems/tree/master/0067-add-binary) |
 | [0070-climbing-stairs](https://github.com/arpitjaiswal07/Leetcode-Problems/tree/master/0070-climbing-stairs) |
 | [0836-rectangle-overlap](https://github.com/arpitjaiswal07/Leetcode-Problems/tree/master/0836-rectangle-overlap) |
 ## Dynamic Programming
@@ -45,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0013-roman-to-integer](https://github.com/arpitjaiswal07/Leetcode-Problems/tree/master/0013-roman-to-integer) |
 | [0014-longest-common-prefix](https://github.com/arpitjaiswal07/Leetcode-Problems/tree/master/0014-longest-common-prefix) |
+| [0067-add-binary](https://github.com/arpitjaiswal07/Leetcode-Problems/tree/master/0067-add-binary) |
 | [0205-isomorphic-strings](https://github.com/arpitjaiswal07/Leetcode-Problems/tree/master/0205-isomorphic-strings) |
 | [0389-find-the-difference](https://github.com/arpitjaiswal07/Leetcode-Problems/tree/master/0389-find-the-difference) |
 | [0451-sort-characters-by-frequency](https://github.com/arpitjaiswal07/Leetcode-Problems/tree/master/0451-sort-characters-by-frequency) |
@@ -55,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0067-add-binary](https://github.com/arpitjaiswal07/Leetcode-Problems/tree/master/0067-add-binary) |
 | [0389-find-the-difference](https://github.com/arpitjaiswal07/Leetcode-Problems/tree/master/0389-find-the-difference) |
 ## Sorting
 |  |
@@ -73,6 +76,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0067-add-binary](https://github.com/arpitjaiswal07/Leetcode-Problems/tree/master/0067-add-binary) |
 | [0682-baseball-game](https://github.com/arpitjaiswal07/Leetcode-Problems/tree/master/0682-baseball-game) |
 | [0844-backspace-string-compare](https://github.com/arpitjaiswal07/Leetcode-Problems/tree/master/0844-backspace-string-compare) |
 ## Two Pointers
