@@ -51,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0389-find-the-difference](https://github.com/arpitjaiswal07/Leetcode-Problems/tree/master/0389-find-the-difference) |
 | [0451-sort-characters-by-frequency](https://github.com/arpitjaiswal07/Leetcode-Problems/tree/master/0451-sort-characters-by-frequency) |
 | [0844-backspace-string-compare](https://github.com/arpitjaiswal07/Leetcode-Problems/tree/master/0844-backspace-string-compare) |
+| [1768-merge-strings-alternately](https://github.com/arpitjaiswal07/Leetcode-Problems/tree/master/1768-merge-strings-alternately) |
 | [1796-second-largest-digit-in-a-string](https://github.com/arpitjaiswal07/Leetcode-Problems/tree/master/1796-second-largest-digit-in-a-string) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/arpitjaiswal07/Leetcode-Problems/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 | [3146-permutation-difference-between-two-strings](https://github.com/arpitjaiswal07/Leetcode-Problems/tree/master/3146-permutation-difference-between-two-strings) |
@@ -83,6 +84,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0844-backspace-string-compare](https://github.com/arpitjaiswal07/Leetcode-Problems/tree/master/0844-backspace-string-compare) |
+| [1768-merge-strings-alternately](https://github.com/arpitjaiswal07/Leetcode-Problems/tree/master/1768-merge-strings-alternately) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/arpitjaiswal07/Leetcode-Problems/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 ## Prefix Sum
 |  |
