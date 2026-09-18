@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0014-longest-common-prefix](https://github.com/arpitjaiswal07/Leetcode-Problems/tree/master/0014-longest-common-prefix) |
 | [0055-jump-game](https://github.com/arpitjaiswal07/Leetcode-Problems/tree/master/0055-jump-game) |
 | [0066-plus-one](https://github.com/arpitjaiswal07/Leetcode-Problems/tree/master/0066-plus-one) |
+| [0219-contains-duplicate-ii](https://github.com/arpitjaiswal07/Leetcode-Problems/tree/master/0219-contains-duplicate-ii) |
 | [0682-baseball-game](https://github.com/arpitjaiswal07/Leetcode-Problems/tree/master/0682-baseball-game) |
 | [0724-find-pivot-index](https://github.com/arpitjaiswal07/Leetcode-Problems/tree/master/0724-find-pivot-index) |
 | [0835-image-overlap](https://github.com/arpitjaiswal07/Leetcode-Problems/tree/master/0835-image-overlap) |
@@ -39,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0013-roman-to-integer](https://github.com/arpitjaiswal07/Leetcode-Problems/tree/master/0013-roman-to-integer) |
 | [0205-isomorphic-strings](https://github.com/arpitjaiswal07/Leetcode-Problems/tree/master/0205-isomorphic-strings) |
+| [0219-contains-duplicate-ii](https://github.com/arpitjaiswal07/Leetcode-Problems/tree/master/0219-contains-duplicate-ii) |
 | [0389-find-the-difference](https://github.com/arpitjaiswal07/Leetcode-Problems/tree/master/0389-find-the-difference) |
 | [0451-sort-characters-by-frequency](https://github.com/arpitjaiswal07/Leetcode-Problems/tree/master/0451-sort-characters-by-frequency) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/arpitjaiswal07/Leetcode-Problems/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
@@ -121,5 +123,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sliding Window
 |  |
 | ------- |
+| [0219-contains-duplicate-ii](https://github.com/arpitjaiswal07/Leetcode-Problems/tree/master/0219-contains-duplicate-ii) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/arpitjaiswal07/Leetcode-Problems/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 <!---LeetCode Topics End-->
