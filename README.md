@@ -53,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0383-ransom-note](https://github.com/arpitjaiswal07/Leetcode-Problems/tree/master/0383-ransom-note) |
 | [0389-find-the-difference](https://github.com/arpitjaiswal07/Leetcode-Problems/tree/master/0389-find-the-difference) |
 | [0451-sort-characters-by-frequency](https://github.com/arpitjaiswal07/Leetcode-Problems/tree/master/0451-sort-characters-by-frequency) |
+| [1096-brace-expansion-ii](https://github.com/arpitjaiswal07/Leetcode-Problems/tree/master/1096-brace-expansion-ii) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/arpitjaiswal07/Leetcode-Problems/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/arpitjaiswal07/Leetcode-Problems/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/arpitjaiswal07/Leetcode-Problems/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
@@ -69,6 +70,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0389-find-the-difference](https://github.com/arpitjaiswal07/Leetcode-Problems/tree/master/0389-find-the-difference) |
 | [0451-sort-characters-by-frequency](https://github.com/arpitjaiswal07/Leetcode-Problems/tree/master/0451-sort-characters-by-frequency) |
 | [0844-backspace-string-compare](https://github.com/arpitjaiswal07/Leetcode-Problems/tree/master/0844-backspace-string-compare) |
+| [1096-brace-expansion-ii](https://github.com/arpitjaiswal07/Leetcode-Problems/tree/master/1096-brace-expansion-ii) |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/arpitjaiswal07/Leetcode-Problems/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 | [1768-merge-strings-alternately](https://github.com/arpitjaiswal07/Leetcode-Problems/tree/master/1768-merge-strings-alternately) |
 | [1796-second-largest-digit-in-a-string](https://github.com/arpitjaiswal07/Leetcode-Problems/tree/master/1796-second-largest-digit-in-a-string) |
@@ -85,6 +87,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0389-find-the-difference](https://github.com/arpitjaiswal07/Leetcode-Problems/tree/master/0389-find-the-difference) |
 | [0451-sort-characters-by-frequency](https://github.com/arpitjaiswal07/Leetcode-Problems/tree/master/0451-sort-characters-by-frequency) |
+| [1096-brace-expansion-ii](https://github.com/arpitjaiswal07/Leetcode-Problems/tree/master/1096-brace-expansion-ii) |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/arpitjaiswal07/Leetcode-Problems/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 ## Geometry
 |  |
@@ -96,6 +99,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0682-baseball-game](https://github.com/arpitjaiswal07/Leetcode-Problems/tree/master/0682-baseball-game) |
 | [0844-backspace-string-compare](https://github.com/arpitjaiswal07/Leetcode-Problems/tree/master/0844-backspace-string-compare) |
+| [1096-brace-expansion-ii](https://github.com/arpitjaiswal07/Leetcode-Problems/tree/master/1096-brace-expansion-ii) |
 ## Simulation
 |  |
 | ------- |
@@ -152,4 +156,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3525-find-x-value-of-array-ii](https://github.com/arpitjaiswal07/Leetcode-Problems/tree/master/3525-find-x-value-of-array-ii) |
+## Backtracking
+|  |
+| ------- |
+| [1096-brace-expansion-ii](https://github.com/arpitjaiswal07/Leetcode-Problems/tree/master/1096-brace-expansion-ii) |
+## Breadth-First Search
+|  |
+| ------- |
+| [1096-brace-expansion-ii](https://github.com/arpitjaiswal07/Leetcode-Problems/tree/master/1096-brace-expansion-ii) |
 <!---LeetCode Topics End-->
