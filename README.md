@@ -73,6 +73,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0020-valid-parentheses](https://github.com/arpitjaiswal07/Leetcode-Problems/tree/master/0020-valid-parentheses) |
 | [0067-add-binary](https://github.com/arpitjaiswal07/Leetcode-Problems/tree/master/0067-add-binary) |
 | [0205-isomorphic-strings](https://github.com/arpitjaiswal07/Leetcode-Problems/tree/master/0205-isomorphic-strings) |
+| [0301-remove-invalid-parentheses](https://github.com/arpitjaiswal07/Leetcode-Problems/tree/master/0301-remove-invalid-parentheses) |
 | [0383-ransom-note](https://github.com/arpitjaiswal07/Leetcode-Problems/tree/master/0383-ransom-note) |
 | [0389-find-the-difference](https://github.com/arpitjaiswal07/Leetcode-Problems/tree/master/0389-find-the-difference) |
 | [0451-sort-characters-by-frequency](https://github.com/arpitjaiswal07/Leetcode-Problems/tree/master/0451-sort-characters-by-frequency) |
@@ -182,10 +183,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Backtracking
 |  |
 | ------- |
+| [0301-remove-invalid-parentheses](https://github.com/arpitjaiswal07/Leetcode-Problems/tree/master/0301-remove-invalid-parentheses) |
 | [1096-brace-expansion-ii](https://github.com/arpitjaiswal07/Leetcode-Problems/tree/master/1096-brace-expansion-ii) |
 ## Breadth-First Search
 |  |
 | ------- |
+| [0301-remove-invalid-parentheses](https://github.com/arpitjaiswal07/Leetcode-Problems/tree/master/0301-remove-invalid-parentheses) |
 | [1096-brace-expansion-ii](https://github.com/arpitjaiswal07/Leetcode-Problems/tree/master/1096-brace-expansion-ii) |
 ## Bracket Sequences
 |  |
