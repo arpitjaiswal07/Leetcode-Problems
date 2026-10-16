@@ -34,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0014-longest-common-prefix](https://github.com/arpitjaiswal07/Leetcode-Problems/tree/master/0014-longest-common-prefix) |
 | [0055-jump-game](https://github.com/arpitjaiswal07/Leetcode-Problems/tree/master/0055-jump-game) |
 | [0066-plus-one](https://github.com/arpitjaiswal07/Leetcode-Problems/tree/master/0066-plus-one) |
+| [0153-find-minimum-in-rotated-sorted-array](https://github.com/arpitjaiswal07/Leetcode-Problems/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0219-contains-duplicate-ii](https://github.com/arpitjaiswal07/Leetcode-Problems/tree/master/0219-contains-duplicate-ii) |
 | [0682-baseball-game](https://github.com/arpitjaiswal07/Leetcode-Problems/tree/master/0682-baseball-game) |
 | [0724-find-pivot-index](https://github.com/arpitjaiswal07/Leetcode-Problems/tree/master/0724-find-pivot-index) |
@@ -189,6 +190,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search
 |  |
 | ------- |
+| [0153-find-minimum-in-rotated-sorted-array](https://github.com/arpitjaiswal07/Leetcode-Problems/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/arpitjaiswal07/Leetcode-Problems/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/arpitjaiswal07/Leetcode-Problems/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/arpitjaiswal07/Leetcode-Problems/tree/master/2333-minimum-sum-of-squared-difference) |
