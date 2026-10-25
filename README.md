@@ -40,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0682-baseball-game](https://github.com/arpitjaiswal07/Leetcode-Problems/tree/master/0682-baseball-game) |
 | [0724-find-pivot-index](https://github.com/arpitjaiswal07/Leetcode-Problems/tree/master/0724-find-pivot-index) |
 | [0835-image-overlap](https://github.com/arpitjaiswal07/Leetcode-Problems/tree/master/0835-image-overlap) |
+| [1254-number-of-closed-islands](https://github.com/arpitjaiswal07/Leetcode-Problems/tree/master/1254-number-of-closed-islands) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/arpitjaiswal07/Leetcode-Problems/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/arpitjaiswal07/Leetcode-Problems/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/arpitjaiswal07/Leetcode-Problems/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
@@ -58,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0835-image-overlap](https://github.com/arpitjaiswal07/Leetcode-Problems/tree/master/0835-image-overlap) |
+| [1254-number-of-closed-islands](https://github.com/arpitjaiswal07/Leetcode-Problems/tree/master/1254-number-of-closed-islands) |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/arpitjaiswal07/Leetcode-Problems/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
 ## Hash Table
 |  |
@@ -222,6 +224,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0301-remove-invalid-parentheses](https://github.com/arpitjaiswal07/Leetcode-Problems/tree/master/0301-remove-invalid-parentheses) |
 | [1096-brace-expansion-ii](https://github.com/arpitjaiswal07/Leetcode-Problems/tree/master/1096-brace-expansion-ii) |
+| [1254-number-of-closed-islands](https://github.com/arpitjaiswal07/Leetcode-Problems/tree/master/1254-number-of-closed-islands) |
 ## Bracket Sequences
 |  |
 | ------- |
@@ -243,4 +246,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/arpitjaiswal07/Leetcode-Problems/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
+## Depth-First Search
+|  |
+| ------- |
+| [1254-number-of-closed-islands](https://github.com/arpitjaiswal07/Leetcode-Problems/tree/master/1254-number-of-closed-islands) |
+## Union-Find
+|  |
+| ------- |
+| [1254-number-of-closed-islands](https://github.com/arpitjaiswal07/Leetcode-Problems/tree/master/1254-number-of-closed-islands) |
 <!---LeetCode Topics End-->
