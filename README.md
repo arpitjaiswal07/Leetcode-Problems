@@ -259,4 +259,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1254-number-of-closed-islands](https://github.com/arpitjaiswal07/Leetcode-Problems/tree/master/1254-number-of-closed-islands) |
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/arpitjaiswal07/Leetcode-Problems/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
+## Linked List
+|  |
+| ------- |
+| [0206-reverse-linked-list](https://github.com/arpitjaiswal07/Leetcode-Problems/tree/master/0206-reverse-linked-list) |
+## Recursion
+|  |
+| ------- |
+| [0206-reverse-linked-list](https://github.com/arpitjaiswal07/Leetcode-Problems/tree/master/0206-reverse-linked-list) |
 <!---LeetCode Topics End-->
