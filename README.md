@@ -78,6 +78,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0013-roman-to-integer](https://github.com/arpitjaiswal07/Leetcode-Problems/tree/master/0013-roman-to-integer) |
+| [0141-linked-list-cycle](https://github.com/arpitjaiswal07/Leetcode-Problems/tree/master/0141-linked-list-cycle) |
 | [0205-isomorphic-strings](https://github.com/arpitjaiswal07/Leetcode-Problems/tree/master/0205-isomorphic-strings) |
 | [0219-contains-duplicate-ii](https://github.com/arpitjaiswal07/Leetcode-Problems/tree/master/0219-contains-duplicate-ii) |
 | [0383-ransom-note](https://github.com/arpitjaiswal07/Leetcode-Problems/tree/master/0383-ransom-note) |
@@ -175,6 +176,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0141-linked-list-cycle](https://github.com/arpitjaiswal07/Leetcode-Problems/tree/master/0141-linked-list-cycle) |
 | [0844-backspace-string-compare](https://github.com/arpitjaiswal07/Leetcode-Problems/tree/master/0844-backspace-string-compare) |
 | [1768-merge-strings-alternately](https://github.com/arpitjaiswal07/Leetcode-Problems/tree/master/1768-merge-strings-alternately) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/arpitjaiswal07/Leetcode-Problems/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
@@ -282,6 +284,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Linked List
 |  |
 | ------- |
+| [0141-linked-list-cycle](https://github.com/arpitjaiswal07/Leetcode-Problems/tree/master/0141-linked-list-cycle) |
 | [0206-reverse-linked-list](https://github.com/arpitjaiswal07/Leetcode-Problems/tree/master/0206-reverse-linked-list) |
 ## Recursion
 |  |
@@ -303,4 +306,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3970-shortest-path-with-at-most-k-consecutive-identical-characters](https://github.com/arpitjaiswal07/Leetcode-Problems/tree/master/3970-shortest-path-with-at-most-k-consecutive-identical-characters) |
+## Floyd's Cycle Finding Algorithm
+|  |
+| ------- |
+| [0141-linked-list-cycle](https://github.com/arpitjaiswal07/Leetcode-Problems/tree/master/0141-linked-list-cycle) |
 <!---LeetCode Topics End-->
