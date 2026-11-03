@@ -24,7 +24,7 @@ public:
             return NULL;
         f = head;
         while(f != s){
-            s = s ->next;
+            s = s -> next;
             f = f -> next;
         }
         return f;
