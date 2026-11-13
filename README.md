@@ -169,6 +169,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/arpitjaiswal07/Leetcode-Problems/tree/master/0020-valid-parentheses) |
+| [0234-palindrome-linked-list](https://github.com/arpitjaiswal07/Leetcode-Problems/tree/master/0234-palindrome-linked-list) |
 | [0678-valid-parenthesis-string](https://github.com/arpitjaiswal07/Leetcode-Problems/tree/master/0678-valid-parenthesis-string) |
 | [0682-baseball-game](https://github.com/arpitjaiswal07/Leetcode-Problems/tree/master/0682-baseball-game) |
 | [0844-backspace-string-compare](https://github.com/arpitjaiswal07/Leetcode-Problems/tree/master/0844-backspace-string-compare) |
@@ -193,6 +194,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0141-linked-list-cycle](https://github.com/arpitjaiswal07/Leetcode-Problems/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/arpitjaiswal07/Leetcode-Problems/tree/master/0142-linked-list-cycle-ii) |
+| [0234-palindrome-linked-list](https://github.com/arpitjaiswal07/Leetcode-Problems/tree/master/0234-palindrome-linked-list) |
 | [0844-backspace-string-compare](https://github.com/arpitjaiswal07/Leetcode-Problems/tree/master/0844-backspace-string-compare) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/arpitjaiswal07/Leetcode-Problems/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1768-merge-strings-alternately](https://github.com/arpitjaiswal07/Leetcode-Problems/tree/master/1768-merge-strings-alternately) |
@@ -311,10 +313,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0141-linked-list-cycle](https://github.com/arpitjaiswal07/Leetcode-Problems/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/arpitjaiswal07/Leetcode-Problems/tree/master/0142-linked-list-cycle-ii) |
 | [0206-reverse-linked-list](https://github.com/arpitjaiswal07/Leetcode-Problems/tree/master/0206-reverse-linked-list) |
+| [0234-palindrome-linked-list](https://github.com/arpitjaiswal07/Leetcode-Problems/tree/master/0234-palindrome-linked-list) |
 ## Recursion
 |  |
 | ------- |
 | [0206-reverse-linked-list](https://github.com/arpitjaiswal07/Leetcode-Problems/tree/master/0206-reverse-linked-list) |
+| [0234-palindrome-linked-list](https://github.com/arpitjaiswal07/Leetcode-Problems/tree/master/0234-palindrome-linked-list) |
 ## Divide and Conquer
 |  |
 | ------- |
