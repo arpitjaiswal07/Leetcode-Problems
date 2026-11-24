@@ -45,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/arpitjaiswal07/Leetcode-Problems/tree/master/0014-longest-common-prefix) |
+| [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/arpitjaiswal07/Leetcode-Problems/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0055-jump-game](https://github.com/arpitjaiswal07/Leetcode-Problems/tree/master/0055-jump-game) |
 | [0066-plus-one](https://github.com/arpitjaiswal07/Leetcode-Problems/tree/master/0066-plus-one) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/arpitjaiswal07/Leetcode-Problems/tree/master/0153-find-minimum-in-rotated-sorted-array) |
@@ -262,6 +263,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search
 |  |
 | ------- |
+| [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/arpitjaiswal07/Leetcode-Problems/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/arpitjaiswal07/Leetcode-Problems/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/arpitjaiswal07/Leetcode-Problems/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/arpitjaiswal07/Leetcode-Problems/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
