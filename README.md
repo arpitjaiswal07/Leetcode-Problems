@@ -84,6 +84,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/arpitjaiswal07/Leetcode-Problems/tree/master/3736-minimum-moves-to-equal-array-elements-iii) |
 | [3841-palindromic-path-queries-in-a-tree](https://github.com/arpitjaiswal07/Leetcode-Problems/tree/master/3841-palindromic-path-queries-in-a-tree) |
 | [3882-minimum-xor-path-in-a-grid](https://github.com/arpitjaiswal07/Leetcode-Problems/tree/master/3882-minimum-xor-path-in-a-grid) |
+| [3934-smallest-unique-subarray](https://github.com/arpitjaiswal07/Leetcode-Problems/tree/master/3934-smallest-unique-subarray) |
 | [3942-minimum-operations-to-sort-a-permutation](https://github.com/arpitjaiswal07/Leetcode-Problems/tree/master/3942-minimum-operations-to-sort-a-permutation) |
 ## Matrix
 |  |
@@ -117,6 +118,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/arpitjaiswal07/Leetcode-Problems/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 | [3146-permutation-difference-between-two-strings](https://github.com/arpitjaiswal07/Leetcode-Problems/tree/master/3146-permutation-difference-between-two-strings) |
 | [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/arpitjaiswal07/Leetcode-Problems/tree/master/3505-minimum-operations-to-make-elements-within-k-subarrays-equal) |
+| [3934-smallest-unique-subarray](https://github.com/arpitjaiswal07/Leetcode-Problems/tree/master/3934-smallest-unique-subarray) |
 ## String
 |  |
 | ------- |
@@ -271,6 +273,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/arpitjaiswal07/Leetcode-Problems/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/arpitjaiswal07/Leetcode-Problems/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/arpitjaiswal07/Leetcode-Problems/tree/master/2333-minimum-sum-of-squared-difference) |
+| [3934-smallest-unique-subarray](https://github.com/arpitjaiswal07/Leetcode-Problems/tree/master/3934-smallest-unique-subarray) |
 ## Sliding Window
 |  |
 | ------- |
@@ -390,4 +393,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1352-product-of-the-last-k-numbers](https://github.com/arpitjaiswal07/Leetcode-Problems/tree/master/1352-product-of-the-last-k-numbers) |
+## Rolling Hash
+|  |
+| ------- |
+| [3934-smallest-unique-subarray](https://github.com/arpitjaiswal07/Leetcode-Problems/tree/master/3934-smallest-unique-subarray) |
+## Suffix Array
+|  |
+| ------- |
+| [3934-smallest-unique-subarray](https://github.com/arpitjaiswal07/Leetcode-Problems/tree/master/3934-smallest-unique-subarray) |
+## Hash Function
+|  |
+| ------- |
+| [3934-smallest-unique-subarray](https://github.com/arpitjaiswal07/Leetcode-Problems/tree/master/3934-smallest-unique-subarray) |
 <!---LeetCode Topics End-->
