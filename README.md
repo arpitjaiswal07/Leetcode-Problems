@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1401-circle-and-rectangle-overlapping](https://github.com/arpitjaiswal07/Leetcode-Problems/tree/master/1401-circle-and-rectangle-overlapping) |
 | [1524-number-of-sub-arrays-with-odd-sum](https://github.com/arpitjaiswal07/Leetcode-Problems/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 | [2409-count-days-spent-together](https://github.com/arpitjaiswal07/Leetcode-Problems/tree/master/2409-count-days-spent-together) |
+| [3360-stone-removal-game](https://github.com/arpitjaiswal07/Leetcode-Problems/tree/master/3360-stone-removal-game) |
 | [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/arpitjaiswal07/Leetcode-Problems/tree/master/3505-minimum-operations-to-make-elements-within-k-subarrays-equal) |
 | [3524-find-x-value-of-array-i](https://github.com/arpitjaiswal07/Leetcode-Problems/tree/master/3524-find-x-value-of-array-i) |
 | [3525-find-x-value-of-array-ii](https://github.com/arpitjaiswal07/Leetcode-Problems/tree/master/3525-find-x-value-of-array-ii) |
@@ -207,6 +208,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0067-add-binary](https://github.com/arpitjaiswal07/Leetcode-Problems/tree/master/0067-add-binary) |
 | [0682-baseball-game](https://github.com/arpitjaiswal07/Leetcode-Problems/tree/master/0682-baseball-game) |
 | [0844-backspace-string-compare](https://github.com/arpitjaiswal07/Leetcode-Problems/tree/master/0844-backspace-string-compare) |
+| [3360-stone-removal-game](https://github.com/arpitjaiswal07/Leetcode-Problems/tree/master/3360-stone-removal-game) |
 | [3498-reverse-degree-of-a-string](https://github.com/arpitjaiswal07/Leetcode-Problems/tree/master/3498-reverse-degree-of-a-string) |
 ## Two Pointers
 |  |
