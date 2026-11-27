@@ -54,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0219-contains-duplicate-ii](https://github.com/arpitjaiswal07/Leetcode-Problems/tree/master/0219-contains-duplicate-ii) |
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/arpitjaiswal07/Leetcode-Problems/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/arpitjaiswal07/Leetcode-Problems/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
+| [0540-single-element-in-a-sorted-array](https://github.com/arpitjaiswal07/Leetcode-Problems/tree/master/0540-single-element-in-a-sorted-array) |
 | [0682-baseball-game](https://github.com/arpitjaiswal07/Leetcode-Problems/tree/master/0682-baseball-game) |
 | [0724-find-pivot-index](https://github.com/arpitjaiswal07/Leetcode-Problems/tree/master/0724-find-pivot-index) |
 | [0835-image-overlap](https://github.com/arpitjaiswal07/Leetcode-Problems/tree/master/0835-image-overlap) |
@@ -271,6 +272,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0033-search-in-rotated-sorted-array](https://github.com/arpitjaiswal07/Leetcode-Problems/tree/master/0033-search-in-rotated-sorted-array) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/arpitjaiswal07/Leetcode-Problems/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/arpitjaiswal07/Leetcode-Problems/tree/master/0153-find-minimum-in-rotated-sorted-array) |
+| [0540-single-element-in-a-sorted-array](https://github.com/arpitjaiswal07/Leetcode-Problems/tree/master/0540-single-element-in-a-sorted-array) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/arpitjaiswal07/Leetcode-Problems/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/arpitjaiswal07/Leetcode-Problems/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/arpitjaiswal07/Leetcode-Problems/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
